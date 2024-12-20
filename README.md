@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:15.12.2024
+## Date:20.12.2024
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -460,9 +460,13 @@ menu.html
 
 
 ## OUTPUT:
+
 ![alt text](<Screenshot 2024-12-15 224240.png>)
+
 ![alt text](<Screenshot 2024-12-15 224252.png>)
+
 ![alt text](<Screenshot 2024-12-15 224328.png>)
+
 ![alt text](<Screenshot 2024-12-15 224348.png>)
 
 
